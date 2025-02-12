@@ -1,6 +1,6 @@
 # Traffic Light Control System
 
-This project is a traffic light control system(CMP07309) implemented using assembly language. The system controls the traffic lights at an intersection, ensuring smooth and efficient traffic flow.
+This project is a traffic light control system(CMP07309) implemented using assembly language on EMU8086. The system controls the traffic lights at an intersection, ensuring smooth and efficient traffic flow.
 
 ## Project Structure
 
